@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Adding all questions SolutionsI will Solve on Leetcode 
+Adding all questions Solutions I will Solve on Leetcode 👍
