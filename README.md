@@ -51,18 +51,7 @@ Advanced Topics: In-depth solutions for complex data structures, backtracking, a
 Navigate to Categories: Explore categories in the directory tree to find specific topics.
 Pick Your Language: Each problem includes solutions in both Python and Java.
 Read and Understand: Solutions include comments explaining the approach, making it easy to follow along.
-Example Solution: Two Sum
-python
-Copy code
-# Problem: Find two indices such that they add up to a target sum
-# Approach: Hash map to store and check for the complement of each number in one pass
-def two_sum(nums, target):
-    hashmap = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in hashmap:
-            return [hashmap[complement], i]
-        hashmap[num] = i
+
 📊 Stats & Activity
 I actively solve problems on LeetCode, aiming to improve speed and depth in coding. This repository reflects my dedication to consistent practice:
 
