@@ -52,7 +52,7 @@ This repository includes solutions to over 100 LeetCode problems, categorized fo
 - Pick Your Language: ***Each problem includes solutions in both Python and Java.***
 - Read and Understand: ***Solutions include comments explaining the approach, making it easy to follow along.***
 
-###📊 Stats & Activity
+### 📊 Stats & Activity
 I actively solve problems on LeetCode, aiming to improve speed and depth in coding. This repository reflects my dedication to consistent practice:
 
 - Weekly Updates: ***New solutions added regularly.***
