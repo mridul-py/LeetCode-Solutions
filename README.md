@@ -1,46 +1,70 @@
-# LeetCode Solutions
+LeetCode-Solutions 💻🔍
+Welcome to my repository of LeetCode Solutions! This collection is a result of dedicated problem-solving practice across a wide range of algorithms and data structures in Python and Java. Here, you'll find optimized solutions crafted with clean code, thoughtful comments, and varied approaches for each problem. These solutions span topics essential for interviews and coding challenges, making this a comprehensive prep resource for placements and beyond.
 
-Welcome to my **LeetCode Solutions** repository! 🚀 Here, I’ve compiled a comprehensive collection of solutions to **LeetCode** problems, implemented in both **Python** and **Java**. This repository reflects my journey through various levels of coding challenges—from foundational to complex algorithms—enhancing my skills in data structures, problem-solving, and optimization techniques.
-
-## 🔍 Repository Overview
-
-This repository is organized by problem name and categorized into language folders, making it easy to navigate and locate specific solutions.
-
-- **Python Solutions** (`*.py`)
-- **Java Solutions** (`*.java`)
-
-Each solution file is named descriptively to help you quickly identify the problem it addresses. The folders and filenames are formatted for clarity.
-
-## 🌟 Featured Problems
-
-Here are some highlighted problems and their corresponding solutions:
-
-- **[Two Sum](https://leetcode.com/problems/two-sum/)**: Find indices of two numbers that add up to a specific target.
-- **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)**: Find the contiguous subarray with the largest sum.
-- **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**: Check if the input string's parentheses are valid.
-
-Feel free to explore the solutions, study the approaches, and contribute your insights!
-
-## 📚 How to Use
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/mridul-py/LeetCode-Solutions.git
-Navigate to your desired language folder:
-bash
+🌟 Repository Highlights
+Language Coverage: Solutions are coded in both Python and Java, showcasing flexibility in solving problems using different programming paradigms.
+Diverse Problem Set: Includes problems ranging from arrays and strings to advanced data structures (linked lists, trees) and dynamic programming.
+Organized Structure: Files are named based on problem titles, making it easy to navigate and understand each solution.
+Clean, Readable Code: Each solution prioritizes clarity and efficiency, with well-organized code and minimal complexity.
+Constant Updates: New solutions are added weekly as I solve more LeetCode problems to enhance my skills and keep this repository fresh.
+📁 File Structure
+Problem Title: Each file is named after the problem it solves for quick identification.
+Languages:
+Python (.py)
+Java (.java)
+Solution Format: Code solutions follow a clear structure, with comments explaining the approach, complexity analysis, and any alternative strategies considered.
+Sample Directory
+mathematica
 Copy code
-cd LeetCode-Solutions/Python  # or Java
-Open any solution file to review the code.
-🛠️ Tools and Technologies Used
-Languages: Python, Java
-IDE: Visual Studio Code, IntelliJ IDEA
-Version Control: Git
-🚀 Contributing
-I welcome contributions! If you have suggestions or improvements for any solution, feel free to fork the repository and create a pull request. Let’s collaborate and learn together!
+├── Array-Problems
+│   ├── 2-sum.py
+│   ├── Find-the-Kth-Largest-Integer-in-Array.java
+│
+├── Linked-List
+│   ├── Reverse-LinkedList.java
+│   ├── Merge-K-Sorted-List.java
+│
+├── Tree-Problems
+│   ├── Binary-Tree-Level-Order-Traversal.java
+│   ├── Construct-Binary-Tree-from-Inorder-and-PostOrder-Traversal.java
+│
+└── Dynamic-Programming
+    ├── Climbing-Stairs.java
+    ├── Coin-Change.java
+📈 Solution Categories
+This repository includes solutions to over 100 LeetCode problems, categorized for easy access:
 
-📫 Connect with Me
-I’m always open to discussions and networking! You can connect with me on:
+Array and Strings: Essential for array manipulations, sliding window, and two-pointer techniques.
+Linked Lists: Covers operations, reverse lists, and two-pointer solutions.
+Binary Trees & Graphs: Includes traversal techniques, dynamic tree operations, and complex graph problems.
+Dynamic Programming: Covers classic problems such as Coin Change, House Robber, and Climbing Stairs with optimal space and time complexity.
+Advanced Topics: In-depth solutions for complex data structures, backtracking, and more.
+🚀 How to Use This Repository
+Navigate to Categories: Explore categories in the directory tree to find specific topics.
+Pick Your Language: Each problem includes solutions in both Python and Java.
+Read and Understand: Solutions include comments explaining the approach, making it easy to follow along.
+Example Solution: 2-Sum
+python
+Copy code
+# Problem: Find two indices such that they add up to a target sum
+# Approach: Hash map to store and check for the complement of each number in one pass
+def two_sum(nums, target):
+    hashmap = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in hashmap:
+            return [hashmap[complement], i]
+        hashmap[num] = i
+📊 Stats & Activity
+I actively solve problems on LeetCode, aiming to improve speed and depth in coding. This repository reflects my dedication to consistent practice:
+
+Weekly Updates: New solutions added regularly
+Problem-Solving Progress: Track my LeetCode stats on LeetCode (e.g., problem counts, streaks)
+👨‍💻 About Me
+As a Software Engineer passionate about data structures, algorithms, and scalable systems, I use this repository as a space to continuously improve my coding skills. With a strong foundation in Python, Java, and backend engineering, I am committed to building clean, efficient code and developing solutions for complex problems.
+
+🤝 Let's Connect
+Feel free to reach out for discussions, collaborations, or feedback!
 
 LinkedIn: www.linkedin.com/in/mridul--gupta
 GitHub: https://github.com/mridul-py
-Thank you for visiting my repository! Happy coding! 💻
