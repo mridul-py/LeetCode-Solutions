@@ -63,6 +63,6 @@ As a Software Engineer passionate about data structures, algorithms, and scalabl
 ### 🤝 Let's Connect
 Feel free to reach out for discussions, collaborations, or feedback!
 
-LinkedIn: www.linkedin.com/in/mridul--gupta
-Instagram :https://www.instagram.com/mridul.py/
-Github : https://github.com/mridul-py
+### LinkedIn: www.linkedin.com/in/mridul--gupta
+### Instagram :https://www.instagram.com/mridul.py/
+### Github : https://github.com/mridul-py
