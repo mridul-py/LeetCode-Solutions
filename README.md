@@ -42,15 +42,15 @@ Welcome to my repository of **LeetCode Solutions**! This collection is a result 
 ### 📈 Solution Categories
 This repository includes solutions to over 100 LeetCode problems, categorized for easy access:
 
-### Array and Strings: ***Essential for array manipulations, sliding window, and two-pointer techniques.***
-### Linked Lists: ***Covers operations, reverse lists, and two-pointer solutions.***
-Binary Trees & Graphs:***Includes traversal techniques, dynamic tree operations, and complex graph problems.***
-Dynamic Programming: ***Covers classic problems such as Coin Change, House Robber, and Climbing Stairs with optimal space and time complexity.***
-Advanced Topics: ***In-depth solutions for complex data structures, backtracking, and more.***
+## Array and Strings: ***Essential for array manipulations, sliding window, and two-pointer techniques.***
+## Linked Lists: ***Covers operations, reverse lists, and two-pointer solutions.***
+## Binary Trees & Graphs:***Includes traversal techniques, dynamic tree operations, and complex graph problems.***
+## Dynamic Programming: ***Covers classic problems such as Coin Change, House Robber, and Climbing Stairs with optimal space and time complexity.***
+## Advanced Topics: ***In-depth solutions for complex data structures, backtracking, and more.***
 ### 🚀 How to Use This Repository
-Navigate to Categories: ***Explore categories in the directory tree to find specific topics.***
-Pick Your Language: ***Each problem includes solutions in both Python and Java.***
-Read and Understand: ***Solutions include comments explaining the approach, making it easy to follow along.***
+## Navigate to Categories: ***Explore categories in the directory tree to find specific topics.***
+## Pick Your Language: ***Each problem includes solutions in both Python and Java.***
+## Read and Understand: ***Solutions include comments explaining the approach, making it easy to follow along.***
 
 ###📊 Stats & Activity
 I actively solve problems on LeetCode, aiming to improve speed and depth in coding. This repository reflects my dedication to consistent practice:
