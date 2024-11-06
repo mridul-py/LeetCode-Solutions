@@ -15,8 +15,8 @@ Welcome to my repository of **LeetCode Solutions**! This collection is a result 
 - **Problem Title:** Each file is named after the problem it solves for quick identification.
   
 ### Languages:
-- **Python** (`*.py`)
-- **Java** (`*.java`)
+- **Python** (`.py`)
+- **Java** (`.java`)
 
 ### Solution Format:
 - Code solutions follow a clear structure, with comments explaining the approach, complexity analysis, and any alternative strategies considered.
