@@ -21,7 +21,7 @@ Welcome to my repository of **LeetCode Solutions**! This collection is a result 
 ### Solution Format:
 - Code solutions follow a clear structure, with comments explaining the approach, complexity analysis, and any alternative strategies considered.
 
-### Sample Directory
+### Sample Directory:
 ```plaintext
 ├── Array-Problems
 │   ├── 2-sum.py
