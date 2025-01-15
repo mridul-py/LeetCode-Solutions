@@ -1,5 +1,4 @@
 # LeetCode-Solutions 💻🔍
-
 Welcome to my repository of **LeetCode Solutions**! This collection is a result of dedicated problem-solving practice across a wide range of algorithms and data structures in **Python** and **Java**. Here, you'll find optimized solutions crafted with clean code, thoughtful comments, and varied approaches for each problem. These solutions span topics essential for interviews and coding challenges, making this a comprehensive prep resource for placements and beyond.
 
 ## 🌟 Repository Highlights
