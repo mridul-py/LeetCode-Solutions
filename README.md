@@ -1,5 +1,10 @@
-# LeetCode-Solutions 💻🔍
-Welcome to my repository of **LeetCode Solutions**! This collection is a result of dedicated problem-solving practice across a wide range of algorithms and data structures in **Python** and **Java**. Here, you'll find optimized solutions crafted with clean code, thoughtful comments, and varied approaches for each problem. These solutions span topics essential for interviews and coding challenges, making this a comprehensive prep resource for placements and beyond.
+
+# LeetCode-Solutions 💻🔍  
+Welcome to my repository of **LeetCode Solutions**!  
+This collection is a result of dedicated problem-solving practice across a wide range of algorithms and data structures in **Python** and **Java**.  
+Here, you'll find optimized solutions crafted with clean code, thoughtful comments, and varied approaches for each problem. These solutions span topics essential for interviews and coding challenges, making this a comprehensive prep resource for placements and beyond.
+
+---
 
 ## 🌟 Repository Highlights
 
@@ -9,16 +14,20 @@ Welcome to my repository of **LeetCode Solutions**! This collection is a result 
 - **Clean, Readable Code:** Each solution prioritizes clarity and efficiency, with well-organized code and minimal complexity.
 - **Constant Updates:** New solutions are added weekly as I solve more LeetCode problems to enhance my skills and keep this repository fresh.
 
+---
+
 ## 📁 File Structure
 
-- **Problem Title:** Each file is named after the problem it solves for quick identification.
-  
+Each folder represents a category of problems, and each file is named after the corresponding LeetCode problem.
+
 ### Languages:
 - **Python** (`.py`)
 - **Java** (`.java`)
 
 ### Solution Format:
-- Code solutions follow a clear structure, with comments explaining the approach, complexity analysis, and any alternative strategies considered.
+- Clean code with comments.
+- Time and space complexity mentioned.
+- Alternative approaches when relevant.
 
 ### Sample Directory:
 ```plaintext
@@ -38,30 +47,78 @@ Welcome to my repository of **LeetCode Solutions**! This collection is a result 
     ├── Climbing-Stairs.java
     ├── Coin-Change.java
 ```
-### 📈 Solution Categories
-This repository includes solutions to over 100 LeetCode problems, categorized for easy access:
 
-- Array and Strings: ***Essential for array manipulations, sliding window, and two-pointer techniques.***
-- Linked Lists: ***Covers operations, reverse lists, and two-pointer solutions.***
-- Binary Trees & Graphs:***Includes traversal techniques, dynamic tree operations, and complex graph problems.***
-- Dynamic Programming: ***Covers classic problems such as Coin Change, House Robber, and Climbing Stairs with optimal space and time complexity.***
-- Advanced Topics: ***In-depth solutions for complex data structures, backtracking, and more.***
-### 🚀 How to Use This Repository
-- Navigate to Categories: ***Explore categories in the directory tree to find specific topics.***
-- Pick Your Language: ***Each problem includes solutions in both Python and Java.***
-- Read and Understand: ***Solutions include comments explaining the approach, making it easy to follow along.***
+---
 
-### 📊 Stats & Activity
-I actively solve problems on LeetCode, aiming to improve speed and depth in coding. This repository reflects my dedication to consistent practice:
+## 📈 Solution Categories
 
-- Weekly Updates: ***New solutions added regularly.***
-- Problem-Solving Progress: ***Track my LeetCode stats on LeetCode (e.g., problem counts, streaks).***
-### 👨‍💻 About Me
-As a Software Engineer passionate about data structures, algorithms, and scalable systems, I use this repository as a space to continuously improve my coding skills. With a strong foundation in Python, Java, and backend engineering, I am committed to building clean, efficient code and developing solutions for complex problems.
+- **Array and Strings:**  
+  Essential for array manipulations, sliding window, and two-pointer techniques.
 
-### 🤝 Let's Connect
-Feel free to reach out for discussions, collaborations, or feedback!
+- **Linked Lists:**  
+  Covers operations, reversing lists, cycle detection, and two-pointer solutions.
 
-###### LinkedIn: www.linkedin.com/in/mridul--gupta
-###### Instagram :https://www.instagram.com/mridul.py/
-###### Github : https://github.com/mridul-py
+- **Binary Trees & Graphs:**  
+  Includes traversal techniques, recursive tree operations, and graph theory problems.
+
+- **Dynamic Programming:**  
+  Problems like Coin Change, House Robber, and Climbing Stairs with optimized solutions.
+
+- **Advanced Topics:**  
+  Covers backtracking, segment trees, heaps, and other complex data structures.
+
+---
+
+## 📌 A Note on Progress
+
+🎓 **B.Tech Final Year Pause**  
+Due to my final year academic load and capstone projects, I had to temporarily pause my LeetCode streak and progress.  
+I got super busy juggling project deadlines, research, and exams, which caused a break in my consistency.
+
+🗓️ **Resuming July 2025**  
+But I’m back with full force — starting from **July 2025**, this repository will once again be actively updated with new solutions, fresh approaches, and even cleaner code.
+
+---
+
+## 🚀 How to Use This Repository
+
+- **Browse by Category:**  
+  Dive into the folder that matches the topic you’re working on.
+
+- **Pick Your Language:**  
+  Every problem includes solutions in either Python, Java, or both.
+
+- **Understand the Code:**  
+  Each solution is well-commented with clear logic and complexity notes.
+
+---
+
+## 📊 Stats & Activity
+
+- Weekly problem-solving sessions starting July 2025.
+- Solutions to over **100+ LeetCode problems** already added.
+- Growing coverage of medium and hard-level problems.
+- Preparing for interviews with real-world DSA challenges.
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer with a passion for:
+- Data Structures & Algorithms
+- Backend Systems
+- Writing clean, scalable, and efficient code
+
+This repo is a reflection of my commitment to daily problem-solving, staying sharp, and growing as a developer.
+
+---
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/mridul--gupta)  
+📸 [Instagram](https://www.instagram.com/deadlock.fr/)  
+🌐 [GitHub](https://github.com/mridul-py)
+
+---
+
+> Thanks for visiting! If you find this repository helpful, feel free to star 🌟 it and share it with others preparing for interviews!
